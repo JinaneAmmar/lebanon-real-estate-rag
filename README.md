@@ -37,7 +37,7 @@ AI-powered RAG system for Lebanese real estate investment advice using semantic 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/lebanon-real-estate-rag.git
+git clone https://github.com/JinaneAmmar/lebanon-real-estate-rag.git
 cd lebanon-real-estate-rag
 ```
 
