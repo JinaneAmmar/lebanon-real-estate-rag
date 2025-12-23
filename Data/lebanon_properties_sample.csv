@@ -1,0 +1,201 @@
+property_id,title,property_type,district,governorate,price_usd,size_sqm,price_per_sqm,bedrooms,bathrooms,features,listing_date,price_category
+LB00001,Apartment in Achrafieh,apartment,Achrafieh,Beirut,305433,85,3593.33,3,1,"['parking', 'view', 'elevator']",2024-08-22,Premium
+LB00002,Apartment in Hamra,apartment,Hamra,Beirut,486162,200,2430.81,4,2,"['view', 'balcony', 'generator']",2024-09-20,Premium
+LB00003,Duplex in Byblos,duplex,Byblos,Mount Lebanon,256268,119,2153.51,1,2,"['generator', 'parking', 'balcony']",2024-05-17,Mid-Range
+LB00004,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,330308,246,1342.72,3,3,"['balcony', 'parking', 'elevator']",2024-10-01,Premium
+LB00005,Villa in Achrafieh,villa,Achrafieh,Beirut,358685,185,1938.84,1,1,"['parking', 'elevator', 'generator']",2024-10-24,Premium
+LB00006,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,178152,82,2172.59,2,1,"['elevator', 'parking', 'generator']",2024-08-04,Mid-Range
+LB00007,Duplex in Baabda,duplex,Baabda,Mount Lebanon,357212,279,1280.33,2,1,"['balcony', 'parking', 'view']",2024-02-25,Premium
+LB00008,Duplex in Verdun,duplex,Verdun,Beirut,284042,180,1578.01,4,1,"['view', 'generator', 'balcony']",2024-11-08,Mid-Range
+LB00009,Duplex in Byblos,duplex,Byblos,Mount Lebanon,184296,100,1842.96,2,3,"['elevator', 'parking', 'view']",2024-05-26,Mid-Range
+LB00010,Villa in Byblos,villa,Byblos,Mount Lebanon,410280,89,4609.89,1,3,"['view', 'elevator', 'generator']",2024-11-27,Premium
+LB00011,Duplex in Jounieh,duplex,Jounieh,Mount Lebanon,331134,218,1518.96,1,2,"['balcony', 'view', 'generator']",2024-06-07,Premium
+LB00012,Duplex in Hamra,duplex,Hamra,Beirut,414173,162,2556.62,2,2,"['parking', 'generator', 'elevator']",2024-09-27,Premium
+LB00013,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,582799,248,2350.0,4,3,"['elevator', 'generator', 'view']",2024-11-16,Luxury
+LB00014,Duplex in Hamra,duplex,Hamra,Beirut,232386,255,911.32,1,3,"['elevator', 'generator', 'balcony']",2024-12-25,Mid-Range
+LB00015,Apartment in Byblos,apartment,Byblos,Mount Lebanon,187596,196,957.12,1,3,"['generator', 'elevator', 'view']",2024-03-03,Mid-Range
+LB00016,Penthouse in Byblos,penthouse,Byblos,Mount Lebanon,409526,284,1441.99,1,2,"['balcony', 'parking', 'elevator']",2024-06-26,Premium
+LB00017,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,290980,137,2123.94,1,2,"['parking', 'balcony', 'elevator']",2024-12-11,Mid-Range
+LB00018,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,293778,138,2128.83,3,1,"['view', 'generator', 'elevator']",2024-01-09,Mid-Range
+LB00019,Villa in Verdun,villa,Verdun,Beirut,290477,115,2525.89,4,1,"['elevator', 'view', 'parking']",2024-04-23,Mid-Range
+LB00020,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,187813,139,1351.17,4,3,"['parking', 'view', 'generator']",2024-10-15,Mid-Range
+LB00021,Villa in Baabda,villa,Baabda,Mount Lebanon,152714,165,925.54,3,1,"['view', 'elevator', 'parking']",2024-01-15,Mid-Range
+LB00022,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,301395,175,1722.26,2,1,"['generator', 'parking', 'balcony']",2024-08-11,Premium
+LB00023,Apartment in Achrafieh,apartment,Achrafieh,Beirut,356836,98,3641.18,1,3,"['generator', 'balcony', 'elevator']",2024-01-23,Premium
+LB00024,Apartment in Hamra,apartment,Hamra,Beirut,254004,85,2988.28,3,3,"['generator', 'view', 'elevator']",2024-06-25,Mid-Range
+LB00025,Penthouse in Verdun,penthouse,Verdun,Beirut,402360,266,1512.63,4,1,"['generator', 'view', 'elevator']",2024-01-13,Premium
+LB00026,Apartment in Achrafieh,apartment,Achrafieh,Beirut,513588,206,2493.15,4,2,"['elevator', 'balcony', 'generator']",2024-07-03,Luxury
+LB00027,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,252382,234,1078.56,1,1,"['elevator', 'parking', 'generator']",2024-07-09,Mid-Range
+LB00028,Apartment in Verdun,apartment,Verdun,Beirut,295457,183,1614.52,1,2,"['generator', 'elevator', 'parking']",2024-03-16,Mid-Range
+LB00029,Penthouse in Baabda,penthouse,Baabda,Mount Lebanon,99693,293,340.25,2,2,"['parking', 'elevator', 'balcony']",2024-12-24,Budget
+LB00030,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,124720,253,492.96,3,1,"['parking', 'generator', 'view']",2024-06-25,Budget
+LB00031,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,388944,218,1784.15,3,3,"['elevator', 'generator', 'view']",2024-06-26,Premium
+LB00032,Duplex in Mar Mikhael,duplex,Mar Mikhael,Mount Lebanon,294499,163,1806.74,2,3,"['parking', 'generator', 'elevator']",2024-11-13,Mid-Range
+LB00033,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,151858,137,1108.45,3,2,"['elevator', 'parking', 'view']",2024-07-04,Mid-Range
+LB00034,Apartment in Verdun,apartment,Verdun,Beirut,343477,157,2187.75,3,3,"['parking', 'elevator', 'generator']",2024-02-11,Premium
+LB00035,Villa in Achrafieh,villa,Achrafieh,Beirut,503085,118,4263.43,3,3,"['balcony', 'generator', 'view']",2024-09-09,Luxury
+LB00036,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,379270,202,1877.57,4,3,"['parking', 'balcony', 'view']",2024-11-16,Premium
+LB00037,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,492271,206,2389.67,4,2,"['balcony', 'elevator', 'view']",2024-12-10,Premium
+LB00038,Apartment in Verdun,apartment,Verdun,Beirut,431622,295,1463.13,4,3,"['generator', 'balcony', 'view']",2024-01-28,Premium
+LB00039,Villa in Byblos,villa,Byblos,Mount Lebanon,429426,214,2006.66,1,1,"['elevator', 'parking', 'view']",2024-02-10,Premium
+LB00040,Apartment in Byblos,apartment,Byblos,Mount Lebanon,359439,299,1202.14,2,2,"['parking', 'balcony', 'view']",2024-03-01,Premium
+LB00041,Duplex in Jounieh,duplex,Jounieh,Mount Lebanon,101822,123,827.82,3,2,"['view', 'balcony', 'elevator']",2024-09-11,Budget
+LB00042,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,396869,245,1619.87,3,2,"['elevator', 'generator', 'parking']",2024-05-04,Premium
+LB00043,Apartment in Baabda,apartment,Baabda,Mount Lebanon,231292,274,844.13,3,2,"['generator', 'view', 'elevator']",2024-03-24,Mid-Range
+LB00044,Villa in Baabda,villa,Baabda,Mount Lebanon,344798,171,2016.36,4,2,"['elevator', 'balcony', 'view']",2024-07-10,Premium
+LB00045,Penthouse in Hamra,penthouse,Hamra,Beirut,391020,257,1521.48,4,2,"['view', 'parking', 'generator']",2024-12-16,Premium
+LB00046,Duplex in Mar Mikhael,duplex,Mar Mikhael,Mount Lebanon,324791,182,1784.57,4,1,"['generator', 'elevator', 'balcony']",2024-01-06,Premium
+LB00047,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,432599,115,3761.73,1,3,"['parking', 'balcony', 'elevator']",2024-06-13,Premium
+LB00048,Villa in Achrafieh,villa,Achrafieh,Beirut,472300,298,1584.9,3,3,"['elevator', 'view', 'balcony']",2024-01-12,Premium
+LB00049,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,175364,82,2138.59,3,3,"['generator', 'balcony', 'view']",2024-05-20,Mid-Range
+LB00050,Duplex in Verdun,duplex,Verdun,Beirut,493103,160,3081.89,3,3,"['elevator', 'generator', 'parking']",2024-12-05,Premium
+LB00051,Apartment in Achrafieh,apartment,Achrafieh,Beirut,514851,97,5307.74,1,2,"['parking', 'generator', 'balcony']",2024-07-01,Luxury
+LB00052,Penthouse in Byblos,penthouse,Byblos,Mount Lebanon,197224,167,1180.98,3,2,"['generator', 'view', 'elevator']",2024-06-08,Mid-Range
+LB00053,Duplex in Baabda,duplex,Baabda,Mount Lebanon,235893,167,1412.53,4,3,"['parking', 'balcony', 'generator']",2024-09-15,Mid-Range
+LB00054,Villa in Baabda,villa,Baabda,Mount Lebanon,82791,188,440.38,2,2,"['parking', 'elevator', 'balcony']",2024-07-09,Budget
+LB00055,Penthouse in Baabda,penthouse,Baabda,Mount Lebanon,141611,93,1522.7,2,3,"['balcony', 'generator', 'elevator']",2024-05-20,Budget
+LB00056,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,177363,150,1182.42,1,3,"['parking', 'generator', 'balcony']",2024-11-03,Mid-Range
+LB00057,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,207024,213,971.94,3,2,"['elevator', 'parking', 'view']",2024-11-07,Mid-Range
+LB00058,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,373604,270,1383.72,2,2,"['view', 'parking', 'elevator']",2024-12-09,Premium
+LB00059,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,440860,263,1676.27,2,2,"['balcony', 'elevator', 'parking']",2024-04-28,Premium
+LB00060,Apartment in Hamra,apartment,Hamra,Beirut,435014,262,1660.36,3,2,"['generator', 'view', 'parking']",2024-08-16,Premium
+LB00061,Penthouse in Baabda,penthouse,Baabda,Mount Lebanon,302044,225,1342.42,1,2,"['view', 'parking', 'balcony']",2024-07-19,Premium
+LB00062,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,320476,299,1071.83,2,1,"['generator', 'elevator', 'parking']",2024-12-13,Premium
+LB00063,Apartment in Achrafieh,apartment,Achrafieh,Beirut,360441,278,1296.55,4,2,"['generator', 'elevator', 'view']",2024-09-04,Premium
+LB00064,Penthouse in Verdun,penthouse,Verdun,Beirut,471250,162,2908.95,3,2,"['balcony', 'elevator', 'generator']",2024-11-11,Premium
+LB00065,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,573562,255,2249.26,4,2,"['elevator', 'parking', 'view']",2024-06-24,Luxury
+LB00066,Villa in Byblos,villa,Byblos,Mount Lebanon,217548,218,997.93,3,3,"['view', 'elevator', 'generator']",2024-10-09,Mid-Range
+LB00067,Duplex in Jounieh,duplex,Jounieh,Mount Lebanon,374633,101,3709.24,1,2,"['balcony', 'elevator', 'generator']",2024-06-26,Premium
+LB00068,Villa in Byblos,villa,Byblos,Mount Lebanon,237182,150,1581.21,2,1,"['view', 'generator', 'elevator']",2024-08-09,Mid-Range
+LB00069,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,583667,262,2227.74,1,1,"['view', 'parking', 'balcony']",2024-04-25,Luxury
+LB00070,Duplex in Hamra,duplex,Hamra,Beirut,486303,276,1761.97,3,1,"['generator', 'view', 'elevator']",2024-01-17,Premium
+LB00071,Duplex in Hamra,duplex,Hamra,Beirut,416219,99,4204.23,4,3,"['parking', 'view', 'elevator']",2024-01-21,Premium
+LB00072,Apartment in Hamra,apartment,Hamra,Beirut,433728,183,2370.1,4,2,"['generator', 'balcony', 'view']",2024-09-01,Premium
+LB00073,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,397049,157,2528.97,3,3,"['balcony', 'view', 'parking']",2024-07-16,Premium
+LB00074,Duplex in Baabda,duplex,Baabda,Mount Lebanon,202430,220,920.14,4,1,"['elevator', 'parking', 'balcony']",2024-10-26,Mid-Range
+LB00075,Apartment in Achrafieh,apartment,Achrafieh,Beirut,423054,171,2474.0,1,3,"['parking', 'generator', 'elevator']",2024-12-09,Premium
+LB00076,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,372847,186,2004.55,3,2,"['generator', 'view', 'parking']",2024-04-02,Premium
+LB00077,Villa in Verdun,villa,Verdun,Beirut,425719,207,2056.61,2,2,"['view', 'parking', 'balcony']",2024-05-19,Premium
+LB00078,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,106405,247,430.79,1,3,"['view', 'generator', 'elevator']",2024-03-05,Budget
+LB00079,Villa in Achrafieh,villa,Achrafieh,Beirut,566694,286,1981.45,2,3,"['balcony', 'parking', 'view']",2024-11-08,Luxury
+LB00080,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,358539,188,1907.12,3,2,"['generator', 'view', 'balcony']",2024-08-09,Premium
+LB00081,Penthouse in Mar Mikhael,penthouse,Mar Mikhael,Mount Lebanon,279774,216,1295.25,4,2,"['parking', 'balcony', 'view']",2024-08-25,Mid-Range
+LB00082,Villa in Gemmayzeh,villa,Gemmayzeh,Mount Lebanon,227210,277,820.25,1,2,"['elevator', 'parking', 'balcony']",2024-02-11,Mid-Range
+LB00083,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,412603,103,4005.85,1,2,"['generator', 'balcony', 'view']",2024-10-08,Premium
+LB00084,Apartment in Achrafieh,apartment,Achrafieh,Beirut,425131,267,1592.25,1,2,"['view', 'elevator', 'balcony']",2024-05-07,Premium
+LB00085,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,475143,157,3026.39,2,1,"['view', 'elevator', 'balcony']",2024-01-26,Premium
+LB00086,Penthouse in Byblos,penthouse,Byblos,Mount Lebanon,208212,286,728.01,4,1,"['balcony', 'view', 'elevator']",2024-03-20,Mid-Range
+LB00087,Apartment in Jounieh,apartment,Jounieh,Mount Lebanon,137598,112,1228.55,2,3,"['generator', 'view', 'elevator']",2024-09-04,Budget
+LB00088,Apartment in Baabda,apartment,Baabda,Mount Lebanon,369690,83,4454.1,4,2,"['parking', 'elevator', 'balcony']",2024-10-21,Premium
+LB00089,Duplex in Mar Mikhael,duplex,Mar Mikhael,Mount Lebanon,464435,233,1993.28,1,2,"['generator', 'elevator', 'parking']",2024-10-18,Premium
+LB00090,Penthouse in Hamra,penthouse,Hamra,Beirut,289836,291,996.0,3,1,"['parking', 'elevator', 'balcony']",2024-06-28,Mid-Range
+LB00091,Apartment in Baabda,apartment,Baabda,Mount Lebanon,333647,99,3370.17,1,3,"['elevator', 'parking', 'generator']",2024-01-27,Premium
+LB00092,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,211979,118,1796.43,4,2,"['parking', 'generator', 'balcony']",2024-04-04,Mid-Range
+LB00093,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,429142,203,2114.0,2,3,"['parking', 'generator', 'balcony']",2024-02-12,Premium
+LB00094,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,459951,133,3458.28,4,3,"['view', 'parking', 'elevator']",2024-04-10,Premium
+LB00095,Penthouse in Hamra,penthouse,Hamra,Beirut,372275,159,2341.35,3,2,"['elevator', 'view', 'parking']",2024-05-25,Premium
+LB00096,Penthouse in Gemmayzeh,penthouse,Gemmayzeh,Mount Lebanon,165702,242,684.72,3,3,"['generator', 'balcony', 'view']",2024-09-24,Mid-Range
+LB00097,Villa in Baabda,villa,Baabda,Mount Lebanon,159971,81,1974.95,2,2,"['elevator', 'view', 'generator']",2024-02-14,Mid-Range
+LB00098,Villa in Achrafieh,villa,Achrafieh,Beirut,523985,81,6468.95,2,3,"['view', 'balcony', 'parking']",2024-01-24,Luxury
+LB00099,Penthouse in Gemmayzeh,penthouse,Gemmayzeh,Mount Lebanon,422647,166,2546.07,1,1,"['generator', 'view', 'parking']",2024-10-10,Premium
+LB00100,Villa in Verdun,villa,Verdun,Beirut,488429,196,2491.98,3,1,"['balcony', 'elevator', 'generator']",2024-07-07,Premium
+LB00101,Duplex in Byblos,duplex,Byblos,Mount Lebanon,449992,179,2513.92,2,2,"['view', 'parking', 'balcony']",2024-12-21,Premium
+LB00102,Penthouse in Hamra,penthouse,Hamra,Beirut,318722,183,1741.65,4,2,"['view', 'generator', 'parking']",2024-12-24,Premium
+LB00103,Apartment in Byblos,apartment,Byblos,Mount Lebanon,246212,233,1056.7,2,3,"['parking', 'elevator', 'generator']",2024-03-23,Mid-Range
+LB00104,Villa in Achrafieh,villa,Achrafieh,Beirut,508586,219,2322.31,3,1,"['generator', 'balcony', 'view']",2024-04-14,Luxury
+LB00105,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,170443,171,996.74,4,3,"['parking', 'balcony', 'view']",2024-12-07,Mid-Range
+LB00106,Duplex in Baabda,duplex,Baabda,Mount Lebanon,195250,81,2410.49,3,1,"['view', 'balcony', 'generator']",2024-05-10,Mid-Range
+LB00107,Villa in Verdun,villa,Verdun,Beirut,536833,125,4294.66,3,3,"['view', 'generator', 'parking']",2024-11-03,Luxury
+LB00108,Duplex in Baabda,duplex,Baabda,Mount Lebanon,167707,271,618.85,2,1,"['generator', 'elevator', 'view']",2024-09-13,Mid-Range
+LB00109,Apartment in Hamra,apartment,Hamra,Beirut,311635,192,1623.1,4,2,"['balcony', 'generator', 'parking']",2024-09-06,Premium
+LB00110,Villa in Hamra,villa,Hamra,Beirut,442427,129,3429.67,4,2,"['parking', 'elevator', 'view']",2024-11-20,Premium
+LB00111,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,331382,153,2165.9,3,3,"['elevator', 'parking', 'generator']",2024-11-22,Premium
+LB00112,Villa in Byblos,villa,Byblos,Mount Lebanon,170166,226,752.95,1,2,"['balcony', 'generator', 'view']",2024-05-15,Mid-Range
+LB00113,Apartment in Jounieh,apartment,Jounieh,Mount Lebanon,311117,110,2828.34,3,3,"['parking', 'generator', 'elevator']",2024-12-02,Premium
+LB00114,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,427565,136,3143.86,3,3,"['balcony', 'view', 'parking']",2024-08-16,Premium
+LB00115,Villa in Jounieh,villa,Jounieh,Mount Lebanon,255672,156,1638.92,1,1,"['balcony', 'generator', 'view']",2024-06-23,Mid-Range
+LB00116,Villa in Jounieh,villa,Jounieh,Mount Lebanon,356844,259,1377.78,2,3,"['balcony', 'view', 'elevator']",2024-01-24,Premium
+LB00117,Villa in Hamra,villa,Hamra,Beirut,291753,132,2210.25,3,3,"['view', 'parking', 'elevator']",2024-12-16,Mid-Range
+LB00118,Duplex in Hamra,duplex,Hamra,Beirut,314860,290,1085.72,2,1,"['view', 'balcony', 'generator']",2024-05-02,Premium
+LB00119,Villa in Baabda,villa,Baabda,Mount Lebanon,226073,137,1650.17,2,2,"['elevator', 'generator', 'balcony']",2024-09-24,Mid-Range
+LB00120,Duplex in Baabda,duplex,Baabda,Mount Lebanon,118342,248,477.19,4,2,"['parking', 'generator', 'balcony']",2024-05-14,Budget
+LB00121,Apartment in Byblos,apartment,Byblos,Mount Lebanon,386669,227,1703.39,2,1,"['elevator', 'generator', 'view']",2024-11-08,Premium
+LB00122,Villa in Jounieh,villa,Jounieh,Mount Lebanon,277918,146,1903.55,2,3,"['generator', 'view', 'elevator']",2024-10-12,Mid-Range
+LB00123,Villa in Achrafieh,villa,Achrafieh,Beirut,568191,236,2407.59,1,2,"['balcony', 'elevator', 'parking']",2024-08-13,Luxury
+LB00124,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,281680,164,1717.56,1,1,"['parking', 'balcony', 'elevator']",2024-08-21,Mid-Range
+LB00125,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,294466,119,2474.5,1,2,"['parking', 'view', 'elevator']",2024-07-19,Mid-Range
+LB00126,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,360930,160,2255.81,1,1,"['elevator', 'balcony', 'view']",2024-08-17,Premium
+LB00127,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,295624,118,2505.29,2,3,"['generator', 'elevator', 'balcony']",2024-08-09,Mid-Range
+LB00128,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,482081,201,2398.41,2,2,"['generator', 'view', 'parking']",2024-11-14,Premium
+LB00129,Villa in Verdun,villa,Verdun,Beirut,546032,84,6500.38,3,2,"['elevator', 'balcony', 'generator']",2024-08-22,Luxury
+LB00130,Villa in Baabda,villa,Baabda,Mount Lebanon,274244,200,1371.22,4,2,"['view', 'parking', 'balcony']",2024-11-03,Mid-Range
+LB00131,Villa in Hamra,villa,Hamra,Beirut,426126,204,2088.85,2,3,"['balcony', 'parking', 'generator']",2024-06-24,Premium
+LB00132,Apartment in Achrafieh,apartment,Achrafieh,Beirut,433188,156,2776.85,2,3,"['balcony', 'generator', 'parking']",2024-06-24,Premium
+LB00133,Apartment in Byblos,apartment,Byblos,Mount Lebanon,362652,80,4533.15,4,1,"['elevator', 'parking', 'view']",2024-12-15,Premium
+LB00134,Villa in Verdun,villa,Verdun,Beirut,379737,199,1908.23,4,1,"['balcony', 'parking', 'generator']",2024-11-16,Premium
+LB00135,Penthouse in Baabda,penthouse,Baabda,Mount Lebanon,165056,255,647.28,4,3,"['generator', 'elevator', 'parking']",2024-03-27,Mid-Range
+LB00136,Villa in Baabda,villa,Baabda,Mount Lebanon,232412,114,2038.7,3,2,"['generator', 'view', 'parking']",2024-12-02,Mid-Range
+LB00137,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,174681,128,1364.7,4,3,"['generator', 'balcony', 'parking']",2024-08-08,Mid-Range
+LB00138,Villa in Hamra,villa,Hamra,Beirut,303356,228,1330.51,1,3,"['parking', 'view', 'elevator']",2024-12-24,Premium
+LB00139,Villa in Hamra,villa,Hamra,Beirut,415916,135,3080.86,3,2,"['view', 'balcony', 'elevator']",2024-07-12,Premium
+LB00140,Penthouse in Verdun,penthouse,Verdun,Beirut,486967,81,6011.94,1,3,"['elevator', 'generator', 'view']",2024-02-03,Premium
+LB00141,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,240613,149,1614.85,3,1,"['elevator', 'generator', 'view']",2024-04-04,Mid-Range
+LB00142,Villa in Jounieh,villa,Jounieh,Mount Lebanon,250792,286,876.9,4,2,"['parking', 'elevator', 'view']",2024-09-22,Mid-Range
+LB00143,Penthouse in Verdun,penthouse,Verdun,Beirut,447957,290,1544.68,3,3,"['elevator', 'parking', 'view']",2024-01-08,Premium
+LB00144,Villa in Hamra,villa,Hamra,Beirut,414054,176,2352.58,3,3,"['parking', 'view', 'elevator']",2024-10-27,Premium
+LB00145,Duplex in Hamra,duplex,Hamra,Beirut,316617,187,1693.14,2,3,"['parking', 'generator', 'view']",2024-12-24,Premium
+LB00146,Duplex in Byblos,duplex,Byblos,Mount Lebanon,157788,110,1434.44,3,1,"['parking', 'generator', 'view']",2024-09-10,Mid-Range
+LB00147,Penthouse in Baabda,penthouse,Baabda,Mount Lebanon,266913,203,1314.84,2,3,"['elevator', 'parking', 'generator']",2024-06-19,Mid-Range
+LB00148,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,321843,275,1170.34,2,2,"['balcony', 'generator', 'elevator']",2024-07-15,Premium
+LB00149,Apartment in Verdun,apartment,Verdun,Beirut,505537,270,1872.36,4,1,"['elevator', 'generator', 'view']",2024-06-06,Luxury
+LB00150,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,301996,243,1242.78,4,3,"['generator', 'elevator', 'parking']",2024-02-02,Premium
+LB00151,Apartment in Jounieh,apartment,Jounieh,Mount Lebanon,255660,164,1558.9,2,3,"['parking', 'view', 'balcony']",2024-05-05,Mid-Range
+LB00152,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,459751,296,1553.21,4,2,"['elevator', 'generator', 'view']",2024-01-13,Premium
+LB00153,Duplex in Mar Mikhael,duplex,Mar Mikhael,Mount Lebanon,410179,122,3362.12,3,3,"['balcony', 'view', 'elevator']",2024-05-13,Premium
+LB00154,Apartment in Baabda,apartment,Baabda,Mount Lebanon,111184,129,861.89,1,2,"['view', 'elevator', 'balcony']",2024-06-13,Budget
+LB00155,Duplex in Gemmayzeh,duplex,Gemmayzeh,Mount Lebanon,410779,106,3875.27,2,2,"['elevator', 'generator', 'parking']",2024-08-08,Premium
+LB00156,Apartment in Baabda,apartment,Baabda,Mount Lebanon,90170,172,524.24,4,2,"['generator', 'balcony', 'parking']",2024-03-09,Budget
+LB00157,Penthouse in Byblos,penthouse,Byblos,Mount Lebanon,164170,136,1207.13,3,3,"['view', 'elevator', 'parking']",2024-09-09,Mid-Range
+LB00158,Duplex in Verdun,duplex,Verdun,Beirut,372748,222,1679.05,4,1,"['parking', 'generator', 'view']",2024-06-05,Premium
+LB00159,Apartment in Verdun,apartment,Verdun,Beirut,545745,296,1843.73,4,1,"['balcony', 'view', 'parking']",2024-08-11,Luxury
+LB00160,Villa in Hamra,villa,Hamra,Beirut,422361,107,3947.3,4,2,"['view', 'elevator', 'parking']",2024-10-13,Premium
+LB00161,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,286731,245,1170.33,4,1,"['parking', 'balcony', 'generator']",2024-05-04,Mid-Range
+LB00162,Duplex in Baabda,duplex,Baabda,Mount Lebanon,261430,107,2443.27,1,3,"['generator', 'elevator', 'balcony']",2024-10-21,Mid-Range
+LB00163,Villa in Verdun,villa,Verdun,Beirut,310095,120,2584.12,4,1,"['parking', 'generator', 'balcony']",2024-10-10,Premium
+LB00164,Apartment in Baabda,apartment,Baabda,Mount Lebanon,372770,90,4141.89,4,3,"['generator', 'elevator', 'view']",2024-03-26,Premium
+LB00165,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,312694,92,3398.85,3,2,"['elevator', 'balcony', 'parking']",2024-07-13,Premium
+LB00166,Apartment in Verdun,apartment,Verdun,Beirut,298575,248,1203.93,2,1,"['parking', 'generator', 'view']",2024-11-25,Mid-Range
+LB00167,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,292841,199,1471.56,1,3,"['parking', 'view', 'elevator']",2024-06-14,Mid-Range
+LB00168,Villa in Byblos,villa,Byblos,Mount Lebanon,378086,111,3406.18,4,2,"['elevator', 'generator', 'balcony']",2024-07-11,Premium
+LB00169,Apartment in Jounieh,apartment,Jounieh,Mount Lebanon,113516,155,732.36,1,3,"['generator', 'balcony', 'parking']",2024-02-07,Budget
+LB00170,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,441144,272,1621.85,2,1,"['balcony', 'parking', 'elevator']",2024-06-19,Premium
+LB00171,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,287491,119,2415.89,3,3,"['balcony', 'generator', 'elevator']",2024-02-08,Mid-Range
+LB00172,Apartment in Hamra,apartment,Hamra,Beirut,401379,141,2846.66,3,1,"['view', 'balcony', 'generator']",2024-08-24,Premium
+LB00173,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,219565,183,1199.81,3,3,"['generator', 'parking', 'elevator']",2024-11-03,Mid-Range
+LB00174,Penthouse in Jounieh,penthouse,Jounieh,Mount Lebanon,309733,294,1053.51,2,3,"['elevator', 'view', 'generator']",2024-03-11,Premium
+LB00175,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,460780,216,2133.24,1,2,"['parking', 'elevator', 'balcony']",2024-08-02,Premium
+LB00176,Villa in Baabda,villa,Baabda,Mount Lebanon,86641,209,414.55,4,3,"['view', 'elevator', 'generator']",2024-05-04,Budget
+LB00177,Duplex in Baabda,duplex,Baabda,Mount Lebanon,242716,193,1257.6,3,1,"['elevator', 'view', 'balcony']",2024-02-25,Mid-Range
+LB00178,Duplex in Byblos,duplex,Byblos,Mount Lebanon,352621,226,1560.27,4,2,"['view', 'balcony', 'parking']",2024-09-18,Premium
+LB00179,Apartment in Verdun,apartment,Verdun,Beirut,397225,167,2378.59,3,3,"['generator', 'balcony', 'view']",2024-05-10,Premium
+LB00180,Villa in Byblos,villa,Byblos,Mount Lebanon,261386,222,1177.41,1,1,"['elevator', 'generator', 'parking']",2024-10-21,Mid-Range
+LB00181,Villa in Jounieh,villa,Jounieh,Mount Lebanon,141460,167,847.07,2,3,"['parking', 'view', 'balcony']",2024-07-18,Budget
+LB00182,Apartment in Achrafieh,apartment,Achrafieh,Beirut,533738,92,5801.5,4,1,"['elevator', 'balcony', 'parking']",2024-02-15,Luxury
+LB00183,Duplex in Jounieh,duplex,Jounieh,Mount Lebanon,201839,184,1096.95,3,1,"['balcony', 'generator', 'elevator']",2024-01-28,Mid-Range
+LB00184,Duplex in Byblos,duplex,Byblos,Mount Lebanon,410881,193,2128.92,2,2,"['elevator', 'view', 'balcony']",2024-06-01,Premium
+LB00185,Villa in Achrafieh,villa,Achrafieh,Beirut,403060,167,2413.53,4,1,"['balcony', 'view', 'elevator']",2024-12-26,Premium
+LB00186,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,250680,212,1182.45,4,2,"['view', 'generator', 'parking']",2024-02-03,Mid-Range
+LB00187,Apartment in Mar Mikhael,apartment,Mar Mikhael,Mount Lebanon,431802,182,2372.54,2,3,"['view', 'elevator', 'parking']",2024-08-09,Premium
+LB00188,Apartment in Hamra,apartment,Hamra,Beirut,379731,212,1791.18,2,1,"['view', 'parking', 'generator']",2024-04-02,Premium
+LB00189,Villa in Verdun,villa,Verdun,Beirut,258338,250,1033.35,2,1,"['view', 'generator', 'elevator']",2024-04-21,Mid-Range
+LB00190,Duplex in Mar Mikhael,duplex,Mar Mikhael,Mount Lebanon,423741,285,1486.81,2,3,"['parking', 'elevator', 'balcony']",2024-01-23,Premium
+LB00191,Apartment in Jounieh,apartment,Jounieh,Mount Lebanon,349553,179,1952.81,4,1,"['balcony', 'elevator', 'generator']",2024-12-27,Premium
+LB00192,Penthouse in Mar Mikhael,penthouse,Mar Mikhael,Mount Lebanon,342887,137,2502.82,4,1,"['elevator', 'parking', 'balcony']",2024-05-09,Premium
+LB00193,Villa in Byblos,villa,Byblos,Mount Lebanon,427563,238,1796.48,2,1,"['view', 'parking', 'balcony']",2024-06-25,Premium
+LB00194,Villa in Hamra,villa,Hamra,Beirut,237432,133,1785.2,2,2,"['generator', 'balcony', 'parking']",2024-06-09,Mid-Range
+LB00195,Penthouse in Byblos,penthouse,Byblos,Mount Lebanon,290734,172,1690.31,4,1,"['generator', 'parking', 'view']",2024-08-28,Mid-Range
+LB00196,Duplex in Hamra,duplex,Hamra,Beirut,279306,186,1501.65,2,3,"['view', 'parking', 'generator']",2024-02-26,Mid-Range
+LB00197,Villa in Verdun,villa,Verdun,Beirut,284783,198,1438.3,4,1,"['view', 'parking', 'balcony']",2024-03-17,Mid-Range
+LB00198,Penthouse in Achrafieh,penthouse,Achrafieh,Beirut,552906,270,2047.8,4,3,"['generator', 'elevator', 'parking']",2024-05-21,Luxury
+LB00199,Apartment in Gemmayzeh,apartment,Gemmayzeh,Mount Lebanon,374761,223,1680.54,1,2,"['view', 'balcony', 'generator']",2024-11-01,Premium
+LB00200,Villa in Mar Mikhael,villa,Mar Mikhael,Mount Lebanon,466802,247,1889.89,2,2,"['generator', 'balcony', 'parking']",2024-11-24,Premium
